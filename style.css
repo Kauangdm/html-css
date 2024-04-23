@@ -1,0 +1,23 @@
+/* Estilo para o título h1 */
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: right;
+    text-decoration: double;
+}
+
+p {
+    text-align: justify;
+    color: aquamarine;
+}
+
+/* Estilo para páragrafos com a classe "destaque" */
+.destaque {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+}
